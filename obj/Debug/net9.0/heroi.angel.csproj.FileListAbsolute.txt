@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\heroi.angel\bin\Debug\net9.0\heroi.angel.exe
+C:\Users\Aluno\Desktop\heroi.angel\bin\Debug\net9.0\heroi.angel.deps.json
+C:\Users\Aluno\Desktop\heroi.angel\bin\Debug\net9.0\heroi.angel.runtimeconfig.json
+C:\Users\Aluno\Desktop\heroi.angel\bin\Debug\net9.0\heroi.angel.dll
+C:\Users\Aluno\Desktop\heroi.angel\bin\Debug\net9.0\heroi.angel.pdb
+C:\Users\Aluno\Desktop\heroi.angel\obj\Debug\net9.0\heroi.angel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\heroi.angel\obj\Debug\net9.0\heroi.angel.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\heroi.angel\obj\Debug\net9.0\heroi.angel.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\heroi.angel\obj\Debug\net9.0\heroi.angel.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\heroi.angel\obj\Debug\net9.0\heroi.angel.dll
+C:\Users\Aluno\Desktop\heroi.angel\obj\Debug\net9.0\refint\heroi.angel.dll
+C:\Users\Aluno\Desktop\heroi.angel\obj\Debug\net9.0\heroi.angel.pdb
+C:\Users\Aluno\Desktop\heroi.angel\obj\Debug\net9.0\heroi.angel.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\heroi.angel\obj\Debug\net9.0\ref\heroi.angel.dll
